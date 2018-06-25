@@ -1,0 +1,32 @@
+body {
+	font-family: Open Sans;
+}
+
+#wrapper {
+
+	background-image: url(../images/mobile1.jpg);
+	background-size: cover;
+	height: 450px;
+	padding-top: 150px;
+	color: white;
+	text-align: center;
+	text-shadow: 1px 1px 2px black;
+}
+
+#footer {
+
+	padding-top: 3em;
+	padding-bottom: 3em;
+	background-color: #24292F;
+	color: white;
+}
+
+.content {
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+.navbartrans {
+
+	opacity: 0.6;
+}
